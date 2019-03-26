@@ -1,2 +1,2 @@
 # SCD
-Prácticas Sistemas Concurrentes y Distribuidos 2018/2019
+Prácticas Sistemas Concurrentes y Distribuidos UGR 2018/2019
